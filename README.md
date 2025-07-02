@@ -21,9 +21,7 @@ pip install tqdm pycryptodomex
 ## 2  Uso rápido
 
 ```bash
-python mini_bruteforce.py SKYWALKER1980 "Star Wars: Episode" \
-  2c70e097ae1d4779068749584f1ec1a165fa8ce7c58fa02a9da9006dab69a0cb \
-  --digits=9
+python.exe mini_bruteforce.py SKYWALKER1980 "Star Wars: Episode" 2c70e097ae1d4779068749584f1ec1a165fa8ce7c58fa02a9da9006dab69a0cb9d248d1c8b173817fddc948b40c927e98604fec781a035d173ec0793f2b19209f268f957f67db458c46c5e04a2ee997b3814424b2f782d75578fb49df79ad97736bdc93c102af9caf6cb6628deeaa8da --digits=9
 ```
 
 Para o vetor de teste mínimo:
