@@ -46,6 +46,12 @@ No exemplo acima:
 - `--key-mode=hash2` usa duplo SHA-1 para derivar a chave (como “1472f95b9af2f031b075754adf1cbb7c”).
 - `--match=prefix` interrompe ao encontrar plaintext cujo início bate com `"Star Wars: Episode"`.
 
+A saída é:
+
+```text
+Star Wars: Episode IX - The Rise of Skywalker, 2019 - Never underestimate a droid. - Leia Organa
+```
+
 Para um teste mínimo:
 
 ```bash
